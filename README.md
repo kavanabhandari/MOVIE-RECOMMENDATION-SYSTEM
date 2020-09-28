@@ -5,9 +5,9 @@ A recommender system, or a recommendation system (sometimes replacing 'system' w
 
 The types of movie recommendation system are :
 
-1 — Content-Based. The Content-Based Recommender relies on the similarity of the items being recommended. ...
-2 — Collaborative Filtering. The Collaborative Filtering Recommender is entirely based on the past behavior and not on the context. ...
-3 — Matrix Factorization. ...
+1 — Content-Based. The Content-Based Recommender relies on the similarity of the items being recommended.
+2 — Collaborative Filtering. The Collaborative Filtering Recommender is entirely based on the past behavior and not on the context.
+3 — Matrix Factorization.
 4 — Deep Learning.
 
 The uses of recommendation system is that :
@@ -17,4 +17,6 @@ A recommendation system uses data analysis techniques to figure out the items th
  
  Do visit my BLOG page for complete information. 
  
+   (https://medium.com/@kavanabhandari/movie-recommendation-system-1f369c3ded06)
+   
  
